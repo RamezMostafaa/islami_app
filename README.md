@@ -1,5 +1,12 @@
 # islami_app
 
+Simple app for Quran and hadeeth which contains Quran Tab: Access the complete
+Quran suras. - Surah Details: Get detailed information about each surah, including
+audio and text. - Sebha Tab: Keep track of daily dhikr and tasbih with a digital
+counter. - Ahadith Tab: Explore authentic Hadith collections. - Light and Dark
+Theme. Database (suras and ahadeeth) is a local files ,localizaion(arabic,english),
+Provider state management
+
 ![icon](https://github.com/RamezMostafaa/ToDo-App/assets/163503357/8ba1aad8-c68f-437b-a9d7-d28ff479945f)
 ![splash_screen](https://github.com/RamezMostafaa/ToDo-App/assets/163503357/7b15ebcc-e340-4f33-ad8e-c70a5e48c966)
 ![quran_light](https://github.com/RamezMostafaa/ToDo-App/assets/163503357/ba722cc4-b4a8-44d5-b609-e1f3e4a7148e)
